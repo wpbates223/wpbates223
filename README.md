@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wpbates223
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Comp Sci at University of Memphis
+- 🌱 I’m currently learning Comp Sci at University of Memphis. Our primary language is Python3 with C++ at 4000 level classes.
 - 💞️ I’m looking to collaborate on Programming Projects and Indie Game Projects
 - 📫 How to reach me: wpbates223@gmail.com
 
